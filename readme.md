@@ -11,16 +11,16 @@
   * The second element contains the product description.
   * The third element contains the product availability (e.g. "Available" or "Not Available")
 - The second section contains product specifications.
-  -- This section should have a header containing the word "Specifications"
-  -- This section should contain two block elements
-  -- The first block element specifies the size.
-  -- The second block element specifies the weight.
-  -- This section should contain a footer.
-  -- The footer contains text stating when the product specifications become invalid.
+  * This section should have a header containing the word "Specifications"
+  * This section should contain two block elements
+  * The first block element specifies the size.
+  * The second block element specifies the weight.
+  * This section should contain a footer.
+  * The footer contains text stating when the product specifications become invalid.
 - The third section contains the product pricing.
-  -- This section should contain a header.
-  -- This section should contain three block elements.
-  -- Each block element contains information about the price for different quantities.
+  * This section should contain a header.
+  * This section should contain three block elements.
+  * Each block element contains information about the price for different quantities.
 
 ###Additional style requirements
 - The entire card has a box shadow.
