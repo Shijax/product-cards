@@ -7,9 +7,9 @@
 - Each product should contain a header element that, itself, contains an h2 element where the product's title will be written.
 - Each product should have three block level html elements.
 - The first section should contain three child block elements.
-  -- The first element contains the product image.
-  -- The second element contains the product description.
-  -- The third element contains the product availability (e.g. "Available" or "Not Available")
+  * The first element contains the product image.
+  * The second element contains the product description.
+  * The third element contains the product availability (e.g. "Available" or "Not Available")
 - The second section contains product specifications.
   -- This section should have a header containing the word "Specifications"
   -- This section should contain two block elements
