@@ -1,4 +1,4 @@
-#Product Cards
+# Product Cards
 
 ## Scope
 - Your task is to build a grid of cards for a company's products. Here are the requirements for the basic structure of the cards.
@@ -22,11 +22,11 @@
   * This section should contain three block elements.
   * Each block element contains information about the price for different quantities.
 
-###Additional style requirements
+### Additional style requirements
 - The entire card has a box shadow.
 - The card title has a solid 1px border that is lightblue.
 - The title and product image are centered.
 
-####Notice that the text for the description in the image is justified.
+#### Notice that the text for the description in the image is justified.
 - The text for the product specification details and pricing details is bold.
 - The availability element extends the full width of the card, with a dark grey background and yellow text.
