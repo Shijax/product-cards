@@ -1,5 +1,19 @@
 # Product Cards
 
+#### Project for Nashville Software School
+<p>This is a project for Nashville Software School.  The Scope of this project is listed below for future reference.</p>
+<p>To run this project, simply pull the index.html and the main.css from the repo and load with your favorite browser or Xcode.</p>
+
+
+
+
+
+
+
+
+
+
+
 ## Scope
 - Your task is to build a grid of cards for a company's products. Here are the requirements for the basic structure of the cards.
 - Each card should be a div.
