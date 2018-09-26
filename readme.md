@@ -3,6 +3,7 @@
 #### Project for Nashville Software School
 <p>This is a project for Nashville Software School.  The Scope of this project is listed below for future reference.</p>
 <p>To run this project, simply pull the index.html and the main.css from the repo and load with your favorite browser or Xcode.</p>
+<img src="https://github.com/Shijax/product-cards/blob/master/images/productcardscreen.jpeg">
 
 
 
