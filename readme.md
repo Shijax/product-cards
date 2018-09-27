@@ -45,3 +45,29 @@
 #### Notice that the text for the description in the image is justified.
 - The text for the product specification details and pricing details is bold.
 - The availability element extends the full width of the card, with a dark grey background and yellow text.
+
+## How to run this project:
+
+* Use nmp to install htpp-server:
+
+```sh
+
+npm install -g http-server
+
+```
+* Run the server:
+
+```sh
+
+hs -p 9999
+
+```
+
+* Open Chrome and navigate to:
+
+```
+
+localhost:9999
+
+```
+
